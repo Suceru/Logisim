@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="fontchooser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/com/connectina/swing/fontchooser/latest/fontchooser-latest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/com/connectina/swing/fontchooser/latest/fontchooser-latest.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

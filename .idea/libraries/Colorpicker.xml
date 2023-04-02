@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Colorpicker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org/bric/colorpicker/1.3.1/colorpicker-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/org/bric/colorpicker/1.3.1/colorpicker-1.3.1.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
